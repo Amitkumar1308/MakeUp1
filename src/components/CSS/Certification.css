@@ -1,0 +1,40 @@
+.certification {
+  /* Existing styles */
+  background-image: url("../2.jpg"); /* Adjust the path if needed */
+  background-size: cover; /* Stretch the image to cover the container */
+  background-position: center; /* Center the image horizontally and vertically */
+}
+.certification {
+    background-color: #f8f8f8;
+    color: #f8f8f8;
+    text-align: center;
+    padding: 40px 20px;
+  }
+  
+  .certification h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .certification img {
+    width: 300px;
+    margin: 20px 0;
+  }
+  
+  .certification p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .apply-now {
+    background-color: #ff4081;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  .apply-now:hover {
+    background-color: #ff1c70;
+  }

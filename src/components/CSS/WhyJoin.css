@@ -1,0 +1,44 @@
+
+.why-join {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 40px 20px;
+  }
+  
+  .why-join h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .benefits {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-bottom: 20px;
+  }
+  
+  .benefits div {
+    text-align: center;
+  }
+  
+  
+  .benefits div p {
+    margin-top: 10px;
+    font-size: 16px;
+  }
+  
+  .apply-now {
+    background-color: #ff4081;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    width: 40%;
+  }
+  
+  .apply-now:hover {
+    background-color: #ff1c70;
+    width: 30%;
+  }
